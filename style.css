@@ -1,0 +1,44 @@
+/* Style for the engine data section */
+#engine {
+    float: right;
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 1px;
+    
+}
+
+img {
+    max-width: 20%;
+    height: auto;
+}
+
+/* Style for the workstation data section */
+#workstation {
+    float: right;
+    background-color: gainsboro;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.container {
+    display: flex;
+}
+
+.box {
+    max-width: 40%;
+    margin: 10%;
+}
+
+p {
+    margin-top: 0.5px;
+    margin-bottom: 0.5px;
+}
+
+
+
