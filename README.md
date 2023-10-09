@@ -1,5 +1,8 @@
 # workstation
 
+I just open it in localhost:#### from the terminal in a browser
+
+
 ## Project setup
 ```
 npm install
