@@ -1,5 +1,8 @@
 # workstation
 
+Prompt link: https://dev.azure.com/Ubisense-RTLS/Training/_git/ubisense-takehome-exercise 
+
+
 I just open it in localhost:#### from the terminal in a browser
 
 
